@@ -1,0 +1,24 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #aaaaaa;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+    height: 300px;
+    width: auto;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.heading {
+    text-align: center;
+}
